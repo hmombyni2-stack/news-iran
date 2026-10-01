@@ -1,0 +1,6 @@
+{
+  "name": "اخبار ایران AI",
+  "description": "جستجو، ترجمه هوشمند به فارسی و گویندگی صوتی اخبار معتبر ایران با هوش مصنوعی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
